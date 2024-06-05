@@ -1,0 +1,39 @@
+ .movie-details-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.movie-details-poster {
+  width: 300px;
+  height: auto;
+  margin: 20px 0;
+}
+
+.movie-update-link {
+  text-decoration: none;
+}
+
+.movie-update-button {
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.movie-update-button:hover {
+  background-color: #218838;
+}
+
+
+.movie-delete-button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  margin-right: 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
